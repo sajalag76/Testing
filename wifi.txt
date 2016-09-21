@@ -1,1 +1,3 @@
+netsh wlan set hosted network name=sajal pass=xyz
 netsh wlan start hosted network
+
